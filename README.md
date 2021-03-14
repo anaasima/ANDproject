@@ -5,7 +5,9 @@ Project name: Do It
 Description: App which helps users manage their time and organize not only their personal schedules, but also tasks at work together with their teammates. A lot of the times I found myself using tools that would help with organizing and managing my time, but I never found an app that would contain all of them in one. Therefore, I have decided to develop an app where you can create and manage tasks, use a pomodoro timer which is a well-known time management technique, create groups and share tasks there, receive statistics regarding how much you have progressed and also get an overview of previous and upcoming tasks. 
 
 Requirements:
+
 Critical:
+
 1. As a user, I want to be able to create an account, so that my data is being saved.
 2. As a user, I want to be able to create tasks for specific days, so that I can organize my schedule.
 3. As a user, I want to be able to see the tasks I have, not only for the current day, but also for previous or upcoming days, in case I want to get an overview of my schedule.
@@ -18,6 +20,7 @@ Critical:
 
 
 High:
+
 10. As a user, I want to be able to edit tasks, in case updates need to be made. 
 11. As a user, I want to be able to set some tasks as important, so that I can be notified about them.
 12. As a user, I want to be able to receive notifications, so that I can be reminded of the important tasks I have left.
@@ -31,6 +34,7 @@ High:
 
 
 Low:
+
 20. As a user, I want to be able to edit my account, in case I need to make any changes.
 21. As a user, I want to be able to delete my account, in case I do not want to use the app anymore. 
 22. As a user, I want to be able to delete tasks, in case they are no longer part of my schedule.
