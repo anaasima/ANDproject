@@ -1,6 +1,7 @@
 # ANDproject
 
 Project name: Do It
+Youtube link: https://youtu.be/25zIDQUHur8
 
 Description: "Do It" is an app which helps users manage and organize their time by creating their own to-do lists. A lot of the time I found myself using similar apps, that still did not have everything I wanted. Therefore, I decided to come up with an app where you can create tasks and manage them (set a priority for them, a due time, edit, delete and complete them). Along with handling tasks, users can also see daily and weekly statistics, tasks they had in the previous days or that they have in the upcoming days, different motivational quotes and they can also select some personal preferences with regards to the date format and the background image for the list of tasks. Moreover, I wanted to add a personal touch to the main theme of the app, which is called "dawn of day" and for me it represents a new day to work on my dreams.
 
